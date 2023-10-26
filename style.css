@@ -1,13 +1,13 @@
 body {
     background-color:floralwhite;
 }
-h1 {
+#titulo {
     color:rgb(0, 90, 139);
     font-size: 50;
     text-align: center;
 }
-p {
+.texto {
     color:darkmagenta;
     text-align: justify;
-    font-size: 30px;
+    font-size: 35px;
 }

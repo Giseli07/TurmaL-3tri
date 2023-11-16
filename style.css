@@ -17,4 +17,5 @@ body {
     padding: 1px;
     margin: 2px;
     border: 10px groove #F99417;
+    border-radius: 20%;
 }

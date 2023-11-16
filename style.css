@@ -1,5 +1,5 @@
 body {
-    background-image:linear-gradient(#1a07f0f3; #0f07f095);
+    background-image:linear-gradient (#1a07f0cb, rgba(240, 155, 7, 0.584));
 }
 #titulo {
     color: #F99417;

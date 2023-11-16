@@ -16,5 +16,5 @@ body {
     width: 500px;
     padding: 1px;
     margin: 2px;
-    border: 10px outset #F99417;
+    border: 10px groove #F99417;
 }

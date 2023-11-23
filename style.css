@@ -24,3 +24,13 @@ body {
 .texto {
     background-color: #DC6008;
 }
+
+.listas{
+    font-size: 35px;
+    text-align: center
+    color: #0E2261;
+}
+
+.lista1{
+    list-style-position: inside;
+}

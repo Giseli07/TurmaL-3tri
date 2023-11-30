@@ -38,3 +38,9 @@ body {
 .lista3 {
     list-style: none;
 }
+
+header {
+    padding: 20px;
+    color: #0E2261;
+    border-bottom: 5px solid white;
+}

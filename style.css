@@ -45,3 +45,8 @@ header {
     border-bottom: 10px solid white;
     background: blueviolet ;
 }
+
+.cabecalho{
+    display:flex;
+    justify-content:space-around;
+}
